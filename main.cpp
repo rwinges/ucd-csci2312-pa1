@@ -19,13 +19,9 @@ int main() {
     cout << endl << "Testing PA1!!" << endl << endl;
 
     cout << "NOTE:  If you see any memory errors, you MUST fix them!" << endl;
-    cout << "       Tests intentionally invoke destructors after they complete,"
-    << endl;
-    cout << "       so if you see a seg-fault after a passed test, it is"
-    << endl;
-    cout << "       probably a bug in your destructor." << endl;
-
-    cout << endl;
+    cout << "       Tests intentionally invoke destructors after they complete," << endl;
+    cout << "       so if you see a seg-fault after a passed test, it is" << endl;
+    cout << "       probably a bug in your destructor." << endl << endl;
 
     ErrorContext ec(cout);
 
