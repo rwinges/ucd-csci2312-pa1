@@ -4,6 +4,10 @@ _working with objects_
 
 * * *
 
+**_All instructions have been implemented. 56/56 tests passed. -RW 2016.02.07_**
+
+* * *
+
 C++ lets us program with _objects_. We describe objects in C++ by declaring and defining _classes_. We _declare_ our class's structure in a header file, just like in C, and _define_ it (that is, write the code that actually does the work) in a corresponding source code file.
 
 Here is a sample header file <tt>Point.h</tt> that describes an object that represents a point in two-dimensional Euclidean space:
